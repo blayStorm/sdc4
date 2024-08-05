@@ -2,3 +2,4 @@ flet
 pyinstaller
 pillow
 flet_route
+openpyxl
