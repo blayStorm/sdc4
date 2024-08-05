@@ -1,3 +1,6 @@
 flet
 pyinstaller
 pillow
+flet_route
+numpy
+pandas
